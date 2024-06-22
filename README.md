@@ -1,1 +1,1 @@
-simple exercise from college
+simple exercise for college
